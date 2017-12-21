@@ -2992,7 +2992,7 @@
 			input[type="button"],
 			button,
 			.button {
-				padding: 0;
+				/*padding: 0;*/
 			}
 
 				input[type="submit"].icon,
@@ -3000,7 +3000,7 @@
 				input[type="button"].icon,
 				button.icon,
 				.button.icon {
-					padding-left: 0;
+					/*padding-left: 0;*/
 				}
 
 		/* Main */

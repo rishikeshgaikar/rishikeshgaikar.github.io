@@ -15,7 +15,7 @@ if(isset($_POST['submit'])){
             $msgClass = 'errordiv';
         }else{
             // Recipient email
-            $toEmail = 'user@example.com';
+            $toEmail = 'rishikeshgaikar07@gmail.com';
             $emailSubject = 'Contact Request Submitted by '.$name;
             $htmlContent = '<h2>Contact Request Submitted</h2>
                 <h4>Name</h4><p>'.$name.'</p>
